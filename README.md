@@ -1,4 +1,4 @@
-# Tere, olen Johannes Valge! 👋
+# Tere, olen Johannes Valge! 
 
 Õpin programmeerimise aluseid ning harjutan C# ja Giti kasutamist.
 
