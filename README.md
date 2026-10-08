@@ -1,16 +1,14 @@
-## Hi there 👋
+# Tere, olen Johannes Valge! 👋
 
-<!--
-**JohannesValge/JohannesValge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Õpin programmeerimise aluseid ning harjutan C# ja Giti kasutamist.
 
-Here are some ideas to get you started:
+## Praegu õpin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C# ja .NET — konsoolirakenduste loomine
+- Git — koodi muudatuste salvestamine ja ajaloo vaatamine
+- GitHub — õppeprojektide hoidmine ja jagamine
+
+## Minu õppeprojektid
+
+- [ProgrammeerimiseAlused](https://github.com/JohannesValge/ProgrammeerimiseAlused) — C# arvuarvamismäng.
+- [TereMaailm](https://github.com/JohannesValge/TereMaailm) — nime küsiv ja kasutajat tervitav konsoolirakendus ning Giti harjutus.
